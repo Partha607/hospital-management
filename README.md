@@ -301,7 +301,7 @@ Please read the following [License](https://github.com/Sam101-pic/HTML-CSS/blob/
 ## Enterprise Release Notes
 
 This release introduces significant enhancements across multiple modules including administrative management, pharmacy operations, accounting workflows, and user experience improvements.Click on 
-[Enterprise Release Notes]() for more information. Thank you!
+[Enterprise Release Notes](https://github.com/hospital-management-system-emr/hims-emr-enterpise) for more information. Thank you!
 
 ---
 
