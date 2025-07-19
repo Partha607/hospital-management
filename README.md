@@ -51,6 +51,7 @@ Danphe HMIS has been consistent throughout these years and with that there are s
 - [Supported LIS Machines](#supported-lis-machines)
 - [Credits](#credits)
 - [ License](#-license)
+- [ Enterprise Release Notes](#enterprise-release-notes)
 - [ Contacts](#-contacts)
 
 ---
@@ -293,6 +294,14 @@ Special thanks to **Imark**, **Danphe**, and all other contributors for their co
 ## 📃 License
 
 Please read the following [License](https://github.com/Sam101-pic/HTML-CSS/blob/3629748534a69110de52dfb1f68c021482a0f940/LICENSE) carefully. Thank you!
+
+---
+
+
+## Enterprise Release Notes
+
+This release introduces significant enhancements across multiple modules including administrative management, pharmacy operations, accounting workflows, and user experience improvements.Click on 
+[Enterprise Release Notes](https://github.com/hospital-management-system-emr/hims-emr-enterpise) for more information. Thank you!
 
 ---
 
